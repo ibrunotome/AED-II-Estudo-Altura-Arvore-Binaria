@@ -14,4 +14,4 @@ Abra o Terminal e digite:
 - gcc main.c arvore.c -omain.bin -Wall -pedantic -ansi
 - ./main.bin
 
-No windows, você pode rodar via netbeans ou se tiver um terminal batch basta seguir os comandos acima.
+No windows, você pode rodar via netbeans ou se tiver um terminal basta seguir os comandos acima.
